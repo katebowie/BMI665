@@ -1,0 +1,11 @@
+"""
+Kate
+Assignment 1
+Submitted 10/3/17
+I'm still figuring out what my code will do.
+And how it works...
+"""
+
+# Problem 4: Converting Celcius to Fahrenheit
+
+def Tc( Tf ):
